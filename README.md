@@ -1,4 +1,4 @@
-# Alist+Aria2-Render (CN)
+# Alist+Aria2-Render
 
 ## 鸣谢
 
